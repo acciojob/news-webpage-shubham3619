@@ -1,16 +1,16 @@
 /*  your css code here. If applicable */
 body {
-	background-color:lightcoral;
+	background-color:#f5f5f5;
 }
 header {
-	background-color: black;
+	background-color: #011e29;
 	color: white;
 	padding:25px;
 	text-align: center;
 	font-weight:bolder;
 	font-size: 30px;
 }
-.first {
+.latest-news-section {
 	background-color: white;
 	text-align: center;
 	border-radius:20px;
@@ -18,7 +18,7 @@ header {
 	height:150px;
 	padding:20px;
 }
-.second {
+.main-article-section {
 	background-color: white;
 	text-align: center;
 	border-radius:20px;
@@ -26,12 +26,12 @@ header {
 	height:200px;
 	padding:20px;
 }
-.third {
+.pictorial-news-section {
 	background-color: white;
 	text-align: center;
 	border-radius:20px;
 }
-.third img {
+.pictorial-news-section img {
 	width: 200px;
 	margin-left:20px;
 	margin-right:20px;
