@@ -1,1 +1,47 @@
 /*  your css code here. If applicable */
+body {
+	background-color:lightcoral;
+}
+header {
+	background-color: black;
+	color: white;
+	padding:25px;
+	text-align: center;
+	font-weight:bolder;
+	font-size: 30px;
+}
+.first {
+	background-color: white;
+	text-align: center;
+	border-radius:20px;
+	width:200px;
+	height:150px;
+	padding:20px;
+}
+.second {
+	background-color: white;
+	text-align: center;
+	border-radius:20px;
+	width: 400px;
+	height:200px;
+	padding:20px;
+}
+.third {
+	background-color: white;
+	text-align: center;
+	border-radius:20px;
+}
+.third img {
+	width: 200px;
+	margin-left:20px;
+	margin-right:20px;
+	margin-bottom:20px;
+}
+main {
+	display:flex;
+	margin-top: 10px;
+	margin:10px;
+}
+main div {
+	margin:2px
+}
